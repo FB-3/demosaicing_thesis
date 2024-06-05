@@ -17,7 +17,7 @@ measure* (SSIM).
 
 ## python_interpolation.ipynb
 
-In questo codice vengono applicati le routine di Python di interpolazione
+In questo codice vengono applicate le routine di Python di interpolazione
 per ogni layer di colore delle immagini:
 
 * Interpolazione Lineare
@@ -35,3 +35,6 @@ measure* (SSIM).
 
 Il programma applica il pattern di Bayer e l'algoritmo di demosaicizzazione
 semplice al dataset delle 24 immagini RAW di Kodak.
+
+Vengono inoltre utilizzate le routine di Python di interpolazione alle immagini
+a cui viene applicato il pattern di Bayer.
